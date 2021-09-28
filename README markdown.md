@@ -6,4 +6,4 @@
 2. eet het op
 3. lekker hoor
 
-[hamburger.JPEG]
+![lekker eten](hamburger.JPEG)
